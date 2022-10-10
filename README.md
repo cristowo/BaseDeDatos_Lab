@@ -6,8 +6,14 @@ Desarrolladores:
 
 Patricio Paez - Felipe Diaz - Amalia Veas - Cristóbal Marchant
 
+# Comandos CMD
+
 php artisan migrate:reset
+
 php artisan migrate
+
 php artisan db:seed
+
 php artisan optimize
+
 php artisan serve
